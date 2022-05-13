@@ -30,6 +30,7 @@ To interact with this application from the command line after completing the abo
 ## Concerns
 
 1.) I assume that all requests will be of the string type.
+
 2.) `/test` also accepts GET requests to detail application instructions. 
     - To aid with navigation, any GET requests to endpoints within this domain will be redirected to the `/test` endpoint.
 ...
